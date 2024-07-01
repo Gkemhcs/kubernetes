@@ -13,7 +13,7 @@ cloud.google.com/go v0.110.7/go.mod h1:+EYjdK8e5RME/VY/qLCAtuyALQ9q67dvuum8i+H5x
 cloud.google.com/go/accessapproval v1.7.1/go.mod h1:JYczztsHRMK7NTXb6Xw+dwbs/WnOJxbo/2mTI+Kgg68=
 cloud.google.com/go/accesscontextmanager v1.8.1/go.mod h1:JFJHfvuaTC+++1iL1coPiG1eu5D24db2wXCDWDjIrxo=
 cloud.google.com/go/aiplatform v1.48.0/go.mod h1:Iu2Q7sC7QGhXUeOhAj/oCK9a+ULz1O4AotZiqjQ8MYA=
-cloud.google.com/go/analytics v0.21.3/go.mod h1:U8dcUtmDmjrmUTnnnRnI4m6zKn/yaA5N9RlEkYFHpQo=
+cloud.google.com/go/analytics v0.21.3/go.mod h1:U8dcUtmDmjrmUTnnnRnI4m6zKn/yaA5N9RlEkYF
 cloud.google.com/go/apigateway v1.6.1/go.mod h1:ufAS3wpbRjqfZrzpvLC2oh0MFlpRJm2E/ts25yyqmXA=
 cloud.google.com/go/apigeeconnect v1.6.1/go.mod h1:C4awq7x0JpLtrlQCr8AzVIzAaYgngRqWf9S5Uhg+wWs=
 cloud.google.com/go/apigeeregistry v0.7.1/go.mod h1:1XgyjZye4Mqtw7T9TsY4NW10U7BojBvG4RMD+vRDrIw=
